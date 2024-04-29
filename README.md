@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhishek Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Live Project**
+- 🔭 Worked on different **Live Project**
 
-- 🌱 I’m currently learning **GraphQL, Micro-services**
+- 🌱 I’m currently learning **GraphQL, and Micro-services**
 
 - 💬 Ask me about **NodeJS, Data Model of MongoDB, Mongoose**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://twitter.com/@AbhiFromPrydan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@AbhiFromPrydan" height="30" width="40" /></a> 
+ <a href="https://twitter.com/yabhi05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@AbhiFromPrydan" height="30" width="40" /></a> 
 <a href="https://linkedin.com/in/abhishek-yadav-jay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-yadav-jay" height="30" width="40" /></a>
 </p>
 
